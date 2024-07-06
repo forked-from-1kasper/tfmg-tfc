@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "tfc:ore/rich_magnetite"
+    },
+    "result": {"item": "minecraft:iron_ingot", "count": 2},
+    "cookingtime": 500
+}

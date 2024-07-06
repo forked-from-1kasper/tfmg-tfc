@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "tfc:ore/normal_tetrahedrite"
+    },
+    "result": {"item": "minecraft:copper_ingot"},
+    "cookingtime": 300
+}

@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "tfc:vein/oil_deposit",
+        "tfc:vein/lead_ore",
+	"tfc:vein/nickel_ore",
+	"tfc:vein/lithium_ore",
+	"tfc:vein/netherrack",
+	"tfc:vein/nether_quartz_ore",
+	"tfc:vein/bauxite"
+    ]
+}

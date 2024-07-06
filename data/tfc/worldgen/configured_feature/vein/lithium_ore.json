@@ -1,0 +1,50 @@
+{
+    "type": "tfc:disc_vein",
+    "config": {
+        "rarity": 4,
+        "density": 0.5,
+        "min_y": -50,
+        "max_y": 50,
+        "size": 7,
+        "height": 8,
+        "random_name": "lithium_ore",
+        "blocks": [
+            {
+                "replace": ["tfc:rock/raw/granite"],
+                "with": [{"block": "tfmg:lithium_ore"}]
+            },
+            {
+                "replace": ["tfc:rock/raw/diorite"],
+                "with": [{"block": "tfmg:lithium_ore"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/gabbro"],
+              "with": [{"block": "tfmg:lithium_ore"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/quartzite"],
+              "with": [{"block": "tfmg:lithium_ore"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/slate"],
+              "with": [{"block": "tfmg:lithium_ore"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/phyllite"],
+              "with": [{"block": "tfmg:lithium_ore"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/schist"],
+              "with": [{"block": "tfmg:lithium_ore"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/gneiss"],
+              "with": [{"block": "tfmg:lithium_ore"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/marble"],
+              "with": [{"block": "tfmg:lithium_ore"}]
+            }
+        ]
+    }
+}

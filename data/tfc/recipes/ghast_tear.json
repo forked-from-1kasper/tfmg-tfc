@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {"item": "minecraft:glowstone_dust"},
+        {"item": "tfc:powder/diamond"}
+    ],
+    "result": {
+        "item": "minecraft:ghast_tear",
+        "count": 1
+    }
+}

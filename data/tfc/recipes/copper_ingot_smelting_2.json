@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "tfc:ore/rich_malachite"
+    },
+    "result": {"item": "minecraft:copper_ingot", "count": 2},
+    "cookingtime": 300
+}

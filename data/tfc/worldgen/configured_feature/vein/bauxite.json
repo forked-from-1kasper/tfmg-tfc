@@ -1,0 +1,50 @@
+{
+    "type": "tfc:disc_vein",
+    "config": {
+        "rarity": 8,
+        "density": 0.99,
+        "min_y": -64,
+        "max_y": 80,
+        "size": 20,
+        "height": 10,
+        "random_name": "bauxite",
+        "blocks": [
+            {
+                "replace": ["tfc:rock/raw/granite"],
+                "with": [{"block": "tfmg:bauxite"}]
+            },
+            {
+                "replace": ["tfc:rock/raw/diorite"],
+                "with": [{"block": "tfmg:bauxite"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/gabbro"],
+              "with": [{"block": "tfmg:bauxite"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/quartzite"],
+              "with": [{"block": "tfmg:bauxite"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/slate"],
+              "with": [{"block": "tfmg:bauxite"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/phyllite"],
+              "with": [{"block": "tfmg:bauxite"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/schist"],
+              "with": [{"block": "tfmg:bauxite"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/gneiss"],
+              "with": [{"block": "tfmg:bauxite"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/marble"],
+              "with": [{"block": "tfmg:bauxite"}]
+            }
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "type": "tfc:disc_vein",
+    "config": {
+        "rarity": 4,
+        "density": 0.7,
+        "min_y": -50,
+        "max_y": 30,
+        "size": 5,
+        "height": 5,
+        "random_name": "nickel_ore",
+        "blocks": [
+            {
+                "replace": ["tfc:rock/raw/granite"],
+                "with": [{"block": "tfmg:nickel_ore"}]
+            },
+            {
+                "replace": ["tfc:rock/raw/diorite"],
+                "with": [{"block": "tfmg:nickel_ore"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/gabbro"],
+              "with": [{"block": "tfmg:nickel_ore"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/quartzite"],
+              "with": [{"block": "tfmg:nickel_ore"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/slate"],
+              "with": [{"block": "tfmg:nickel_ore"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/phyllite"],
+              "with": [{"block": "tfmg:nickel_ore"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/schist"],
+              "with": [{"block": "tfmg:nickel_ore"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/gneiss"],
+              "with": [{"block": "tfmg:nickel_ore"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/marble"],
+              "with": [{"block": "tfmg:nickel_ore"}]
+            }
+        ]
+    }
+}

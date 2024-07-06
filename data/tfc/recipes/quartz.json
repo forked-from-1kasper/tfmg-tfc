@@ -1,0 +1,12 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+        "item": "minecraft:nether_quartz_ore"
+    },
+    "result_item": {
+      "stack": {
+        "item": "minecraft:quartz"
+      }
+    },
+    "temperature": 1000
+}

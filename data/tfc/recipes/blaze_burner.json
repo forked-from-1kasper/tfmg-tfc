@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {"item": "create:empty_blaze_burner"},
+        {"item": "minecraft:blaze_rod"},
+        {"item": "minecraft:blaze_rod"}
+    ],
+    "result": {"item": "create:blaze_burner"}
+}

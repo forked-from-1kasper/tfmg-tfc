@@ -1,0 +1,8 @@
+{
+    "ingredient": {
+        "item": "minecraft:blaze_powder"
+    },
+    "heat_capacity": 15.0,
+    "forging_temperature": 500.0,
+    "welding_temperature": 700.0
+}

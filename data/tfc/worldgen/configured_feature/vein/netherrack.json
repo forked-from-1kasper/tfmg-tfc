@@ -1,0 +1,50 @@
+{
+    "type": "tfc:disc_vein",
+    "config": {
+        "rarity": 8,
+        "density": 0.99,
+        "min_y": -64,
+        "max_y": 50,
+        "size": 20,
+        "height": 10,
+        "random_name": "netherrack",
+        "blocks": [
+            {
+                "replace": ["tfc:rock/raw/granite"],
+                "with": [{"block": "minecraft:netherrack"}]
+            },
+            {
+                "replace": ["tfc:rock/raw/diorite"],
+                "with": [{"block": "minecraft:netherrack"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/gabbro"],
+              "with": [{"block": "minecraft:netherrack"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/quartzite"],
+              "with": [{"block": "minecraft:netherrack"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/slate"],
+              "with": [{"block": "minecraft:netherrack"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/phyllite"],
+              "with": [{"block": "minecraft:netherrack"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/schist"],
+              "with": [{"block": "minecraft:netherrack"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/gneiss"],
+              "with": [{"block": "minecraft:netherrack"}]
+            },
+            {
+              "replace": ["tfc:rock/raw/marble"],
+              "with": [{"block": "minecraft:netherrack"}]
+            }
+        ]
+    }
+}
