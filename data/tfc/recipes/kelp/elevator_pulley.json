@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CBC",
+        "CCC",
+        "CIC"
+    ],
+    "key": {
+        "B": {
+            "item": "create:brass_casing"
+        },
+        "C": {
+            "item": "tfc:food/dried_kelp"
+        },
+        "I": {
+            "tag": "forge:plates/iron"
+        }
+    },
+    "result": {
+        "item": "create:elevator_pulley"
+    }
+}

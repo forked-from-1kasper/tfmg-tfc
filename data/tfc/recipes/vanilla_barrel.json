@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "XYX",
+        "XYX",
+        "XYX"
+    ],
+    "key": {
+        "X": {"tag": "tfc:lumber"},
+        "Y": {"item": "tfc:metal/bars/wrought_iron"}
+    },
+    "result": {"item": "minecraft:barrel"}
+}
