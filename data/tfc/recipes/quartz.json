@@ -4,9 +4,9 @@
         "item": "minecraft:nether_quartz_ore"
     },
     "result_item": {
-      "stack": {
-        "item": "minecraft:quartz"
-      }
+        "stack": {
+            "item": "minecraft:quartz"
+        }
     },
     "temperature": 1000
 }

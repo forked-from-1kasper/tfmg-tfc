@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "tfc:mangrove_logs"
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:wood/lumber/mangrove",
+            "count": 8
+        }
+    ],
+    "processingTime": 50
+}

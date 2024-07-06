@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "tfc:oak_logs"
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:wood/lumber/oak",
+            "count": 8
+        }
+    ],
+    "processingTime": 50
+}

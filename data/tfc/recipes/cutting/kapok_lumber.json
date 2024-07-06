@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "tfc:kapok_logs"
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:wood/lumber/kapok",
+            "count": 8
+        }
+    ],
+    "processingTime": 50
+}

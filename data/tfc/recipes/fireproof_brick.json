@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "tfc:fire_clay"
+    },
+    "result": {"item": "tfmg:fireproof_brick"},
+    "cookingtime": 200
+}

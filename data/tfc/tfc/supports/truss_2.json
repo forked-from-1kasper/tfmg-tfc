@@ -1,0 +1,13 @@
+{
+    "ingredient": [
+        "tfmg:aluminum_truss",
+        "tfmg:lead_truss",
+        "tfmg:nickel_truss",
+        "tfmg:copper_truss",
+        "tfmg:zinc_truss",
+        "tfmg:brass_truss"
+    ],
+    "support_up": 3,
+    "support_down": 3,
+    "support_horizontal": 5
+}

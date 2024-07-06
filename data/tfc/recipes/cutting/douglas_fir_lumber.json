@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "tfc:douglas_fir_logs"
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:wood/lumber/douglas_fir",
+            "count": 8
+        }
+    ],
+    "processingTime": 50
+}

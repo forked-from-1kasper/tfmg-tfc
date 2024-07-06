@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "tfc:chestnut_logs"
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:wood/lumber/chestnut",
+            "count": 8
+        }
+    ],
+    "processingTime": 50
+}

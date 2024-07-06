@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "tfc:blackwood_logs"
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:wood/lumber/blackwood",
+            "count": 8
+        }
+    ],
+    "processingTime": 50
+}

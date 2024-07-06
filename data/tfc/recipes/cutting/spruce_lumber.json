@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "tfc:spruce_logs"
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:wood/lumber/spruce",
+            "count": 8
+        }
+    ],
+    "processingTime": 50
+}

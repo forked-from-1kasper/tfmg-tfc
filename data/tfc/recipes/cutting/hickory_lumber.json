@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "tfc:hickory_logs"
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:wood/lumber/hickory",
+            "count": 8
+        }
+    ],
+    "processingTime": 50
+}

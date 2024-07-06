@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "tfc:sequoia_logs"
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:wood/lumber/sequoia",
+            "count": 8
+        }
+    ],
+    "processingTime": 50
+}

@@ -1,0 +1,9 @@
+{
+    "ingredient": [
+        "tfmg:steel_frame",
+        "tfmg:cast_iron_frame"
+    ],
+    "support_up": 3,
+    "support_down": 3,
+    "support_horizontal": 6
+}

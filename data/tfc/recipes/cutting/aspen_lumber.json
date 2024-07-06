@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "tfc:aspen_logs"
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:wood/lumber/aspen",
+            "count": 8
+        }
+    ],
+    "processingTime": 50
+}

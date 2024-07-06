@@ -1,0 +1,13 @@
+{
+    "ingredient": [
+        "tfmg:aluminum_frame",
+        "tfmg:lead_frame",
+        "tfmg:nickel_frame",
+        "tfmg:copper_frame",
+        "tfmg:zinc_frame",
+        "tfmg:brass_frame"
+    ],
+    "support_up": 2,
+    "support_down": 2,
+    "support_horizontal": 5
+}

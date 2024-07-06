@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "tfc:willow_logs"
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:wood/lumber/willow",
+            "count": 8
+        }
+    ],
+    "processingTime": 50
+}

@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "tfc:palm_logs"
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:wood/lumber/palm",
+            "count": 8
+        }
+    ],
+    "processingTime": 50
+}

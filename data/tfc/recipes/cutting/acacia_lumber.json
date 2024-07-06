@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "tfc:acacia_logs"
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:wood/lumber/acacia",
+            "count": 8
+        }
+    ],
+    "processingTime": 50
+}

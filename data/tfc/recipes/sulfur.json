@@ -1,0 +1,23 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "tfc:ore/sulfur"
+        }
+    ],
+    "results": [
+        {
+            "item": "tfmg:sulfur_dust",
+            "count": 4
+        },
+        {
+            "item": "tfmg:sulfur_dust",
+            "chance": 0.1
+        },
+        {
+            "item": "minecraft:cobblestone",
+            "chance": 0.12
+        }
+    ],
+    "processingTime": 350
+}

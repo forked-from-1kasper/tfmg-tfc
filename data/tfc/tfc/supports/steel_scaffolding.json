@@ -1,0 +1,8 @@
+{
+    "ingredient": [
+        "tfmg:steel_scaffolding"
+    ],
+    "support_up": 2,
+    "support_down": 2,
+    "support_horizontal": 6
+}
