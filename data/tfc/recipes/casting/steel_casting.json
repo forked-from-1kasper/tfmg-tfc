@@ -1,0 +1,20 @@
+{
+    "type": "tfmg:casting",
+    "ingredients": [
+        {
+          "fluid": "tfc:metal/steel",
+          "amount": 100
+        }
+    ],
+    "results": [
+        {
+            "count": 1,
+            "item": "tfc:metal/ingot/steel"
+        },
+        {
+            "count": 10,
+            "item": "tfmg:steel_ingot"
+        }
+    ],
+    "processingTime": 50
+}

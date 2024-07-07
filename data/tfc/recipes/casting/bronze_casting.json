@@ -1,0 +1,20 @@
+{
+    "type": "tfmg:casting",
+    "ingredients": [
+        {
+          "fluid": "tfc:metal/bronze",
+          "amount": 100
+        }
+    ],
+    "results": [
+        {
+            "count": 1,
+            "item": "tfc:metal/ingot/bronze"
+        },
+        {
+            "count": 10,
+            "item": "tfc:metal/ingot/bronze"
+        }
+    ],
+    "processingTime": 50
+}

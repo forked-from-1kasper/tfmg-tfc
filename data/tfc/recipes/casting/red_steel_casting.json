@@ -1,0 +1,20 @@
+{
+    "type": "tfmg:casting",
+    "ingredients": [
+        {
+          "fluid": "tfc:metal/red_steel",
+          "amount": 100
+        }
+    ],
+    "results": [
+        {
+            "count": 1,
+            "item": "tfc:metal/ingot/red_steel"
+        },
+        {
+            "count": 10,
+            "item": "tfc:metal/ingot/red_steel"
+        }
+    ],
+    "processingTime": 50
+}

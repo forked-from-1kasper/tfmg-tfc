@@ -1,0 +1,20 @@
+{
+    "type": "tfmg:casting",
+    "ingredients": [
+        {
+          "fluid": "tfc:metal/unknown",
+          "amount": 100
+        }
+    ],
+    "results": [
+        {
+            "count": 1,
+            "item": "tfc:metal/ingot/unknown"
+        },
+        {
+            "count": 10,
+            "item": "tfc:metal/ingot/unknown"
+        }
+    ],
+    "processingTime": 50
+}

@@ -1,0 +1,20 @@
+{
+    "type": "tfmg:industrial_blasting",
+    "ingredients": [
+        {
+            "count": 1,
+            "item": "tfc:ore/small_native_copper"
+        }
+    ],
+    "results": [
+        {
+            "fluid": "tfc:metal/copper",
+            "amount": 10
+        },
+        {
+            "fluid": "tfmg:molten_slag",
+            "amount": 2
+        }
+    ],
+    "processingTime": 50
+}

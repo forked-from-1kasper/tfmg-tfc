@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:smelting",
-    "ingredient": {
-        "item": "tfc:ore/normal_hematite"
-    },
-    "result": {"item": "minecraft:iron_ingot"},
-    "cookingtime": 500
-}

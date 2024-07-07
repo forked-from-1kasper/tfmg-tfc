@@ -1,0 +1,20 @@
+{
+    "type": "tfmg:casting",
+    "ingredients": [
+        {
+          "fluid": "tfc:metal/nickel",
+          "amount": 100
+        }
+    ],
+    "results": [
+        {
+            "count": 1,
+            "item": "tfc:metal/ingot/nickel"
+        },
+        {
+            "count": 10,
+            "item": "minecraft:nickel_ingot"
+        }
+    ],
+    "processingTime": 50
+}

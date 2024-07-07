@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:smelting",
-    "ingredient": {
-        "item": "tfc:ore/normal_sphalerite"
-    },
-    "result": {"item": "create:zinc_ingot"},
-    "cookingtime": 200
-}
