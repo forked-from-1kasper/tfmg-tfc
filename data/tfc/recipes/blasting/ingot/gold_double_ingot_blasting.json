@@ -1,0 +1,20 @@
+{
+    "type": "tfmg:industrial_blasting",
+    "ingredients": [
+        {
+            "count": 1,
+            "item": "tfc:metal/double_ingot/gold"
+        }
+    ],
+    "results": [
+        {
+            "fluid": "tfc:metal/gold",
+            "amount": 199
+        },
+        {
+            "fluid": "tfmg:molten_slag",
+            "amount": 1
+        }
+    ],
+    "processingTime": 100
+}

@@ -1,0 +1,20 @@
+{
+    "type": "tfmg:industrial_blasting",
+    "ingredients": [
+        {
+            "count": 1,
+            "item": "tfc:metal/ingot/high_carbon_red_steel"
+        }
+    ],
+    "results": [
+        {
+            "fluid": "tfc:metal/high_carbon_red_steel",
+            "amount": 99
+        },
+        {
+            "fluid": "tfmg:molten_slag",
+            "amount": 1
+        }
+    ],
+    "processingTime": 100
+}
