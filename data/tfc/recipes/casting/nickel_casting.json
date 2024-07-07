@@ -13,7 +13,7 @@
         },
         {
             "count": 10,
-            "item": "minecraft:nickel_ingot"
+            "item": "tfc:metal/ingot/nickel"
         }
     ],
     "processingTime": 50

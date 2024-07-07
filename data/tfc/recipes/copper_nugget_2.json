@@ -1,0 +1,10 @@
+{
+    "type": "tfc:quern",
+    "ingredient": {
+        "item": "tfc:metal/ingot/copper"
+    },
+    "result": {
+        "item": "create:copper_nugget",
+        "count": 9
+    }
+}

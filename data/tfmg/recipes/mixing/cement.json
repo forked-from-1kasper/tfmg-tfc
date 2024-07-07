@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "tfc:powder/lime"
+        },
+        {
+            "item": "minecraft:clay_ball"
+        }
+    ],
+    "results": [
+        {
+            "count": 4,
+            "item": "tfmg:cement"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "tfc:metal/ingot/wrought_iron"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:iron_nugget",
+            "count": 9
+        }
+    ],
+    "processingTime": 400
+}

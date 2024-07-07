@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        "III",
+        "III"
+    ],
+    "key": {
+        "I": {
+            "item": "tfc:metal/ingot/wrought_iron"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_block"
+    }
+}

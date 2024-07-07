@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "tfc:metal/ingot/copper"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:copper_nugget",
+            "count": 9
+        }
+    ],
+    "processingTime": 400
+}

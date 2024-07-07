@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "tfc:metal/ingot/gold"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:gold_nugget",
+            "count": 9
+        }
+    ],
+    "processingTime": 400
+}
