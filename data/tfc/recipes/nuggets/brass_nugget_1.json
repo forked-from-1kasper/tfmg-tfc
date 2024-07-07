@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "tfc:metal/ingot/brass"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:brass_nugget",
+            "count": 9
+        }
+    ],
+    "processingTime": 400
+}

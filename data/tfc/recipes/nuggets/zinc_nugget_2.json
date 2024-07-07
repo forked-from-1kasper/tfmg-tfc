@@ -1,0 +1,10 @@
+{
+    "type": "tfc:quern",
+    "ingredient": {
+        "item": "tfc:metal/ingot/zinc"
+    },
+    "result": {
+        "item": "create:zinc_nugget",
+        "count": 9
+    }
+}

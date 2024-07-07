@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "tfc:metal/ingot/zinc"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:zinc_nugget",
+            "count": 9
+        }
+    ],
+    "processingTime": 400
+}

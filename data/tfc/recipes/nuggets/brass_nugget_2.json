@@ -1,0 +1,10 @@
+{
+    "type": "tfc:quern",
+    "ingredient": {
+        "item": "tfc:metal/ingot/brass"
+    },
+    "result": {
+        "item": "create:brass_nugget",
+        "count": 9
+    }
+}
